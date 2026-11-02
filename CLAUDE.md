@@ -1,4 +1,4 @@
-# SpaceBeam
+# SpaceBeam Readme
 
 Real-time kaleidoscope visual synthesizer for Android, meant for party/event use.
 
